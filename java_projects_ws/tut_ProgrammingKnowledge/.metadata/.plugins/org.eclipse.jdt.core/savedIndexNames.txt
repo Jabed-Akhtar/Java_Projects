@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+W:\5w_Workshop_ONGOING_Works\gitHubRepos_projects_ws\Java_Projects_ws\java_projects_ws\tut_ProgrammingKnowledge\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-4263511096.index
